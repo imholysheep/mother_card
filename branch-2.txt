@@ -1,3 +1,2 @@
-conflict 1
 
-conflict 3
+conflict 2 (sheep2)
